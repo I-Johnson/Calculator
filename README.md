@@ -1,2 +1,2 @@
 # Calculator
-I made this calculator using basic codes of python
+I made this calculator using basic codes of Python
